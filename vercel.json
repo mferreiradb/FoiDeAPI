@@ -2,7 +2,6 @@
     "version": 2,
     "public": true,
     "build": {
-        "src": "api/main.ts",
         "use": "@vercel/node"
     },
     "routes": [
