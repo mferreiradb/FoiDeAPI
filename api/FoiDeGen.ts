@@ -1,1 +1,1 @@
-const frases: string[] = []
+const frases: string[] = ["Foi de base", "Foi de arrasta pra cima"]
