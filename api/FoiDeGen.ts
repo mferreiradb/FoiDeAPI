@@ -1,10 +1,10 @@
 const frases: string[] = [
     "Foi de base",
     "Foi de arrasta pra cima",
-    "Foide hexa 2022",
+    "Foi de hexa 2022",
     "Foi de comes e bebes",
     "Foi de deitado eternamente em berço esplêndido",
-    "Foi de sevira nos 30",
+    "Foi de se vira nos 30",
     "Foi de Wakanda Forever na horizontal",
     "Foi de link na bio",
     "Foi de camisa de saudades",
@@ -19,7 +19,7 @@ const frases: string[] = [
     "Foi de Bom dia e Cia",
     "Foi pro show do Avicii",
     "Foi de lojas americanas",
-    "Foi de Pelé Nascimento Arantes",
+    "Foi de Pelé Arantes do Nascimento",
     "Foi de maradona"
 ]
 
