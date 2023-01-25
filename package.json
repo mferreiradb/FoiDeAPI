@@ -1,6 +1,6 @@
 {
-    "name": "foi-de-api",
-    "version": "1.0.0",
+    "name": "foi-de-base-api",
+    "version": "2.0.0",
     "description": "",
     "main": "main.ts",
     "scripts": {
