@@ -5,6 +5,6 @@
 
 *Rotas da aplicação*
 
-- GET https://foide-api.vercel.app
+- GET https://foi-de-base-api.vercel.app
     
     - Retorna uma frase
