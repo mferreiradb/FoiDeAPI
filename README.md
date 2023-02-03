@@ -14,8 +14,3 @@
 - [Express](https://expressjs.com/)
 - [Typescript](https://www.typescriptlang.org/)
 - [NPM](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/)
-
-## Autores
-
-- [@leonardonicola](https://www.github.com/leonardonicola)
-- [@mferreiradb](https://www.github.com/mferreiradb)
