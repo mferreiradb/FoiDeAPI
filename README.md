@@ -8,6 +8,30 @@
 ![Badge](https://img.shields.io/badge/License-ISC-brightgreen?style=for-the-badge&logo=ghost)
 ![Badge](https://img.shields.io/badge/Status-Finished-brightgreen?style=for-the-badge&logo=ghost)
 
+## Instalação de dependências
+
+- Typescript
+
+        npm i -D typescript
+    
+    - Iniciar ts.config
+
+        ```
+        tsc --init
+        ```
+
+- Ts Node Dev
+
+        npm i -D ts-node-dev
+
+- Express
+
+        npm i express
+
+- Tipagem para express
+
+        npm i -D @types/express
+
 ## Rotas da aplicação
 
 - GET https://foi-de-base-api.vercel.app
