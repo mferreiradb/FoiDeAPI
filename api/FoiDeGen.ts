@@ -20,7 +20,8 @@ const frases: string[] = [
 	'Foi pro show do Avicii',
 	'Foi de lojas americanas',
 	'Foi de Pelé Arantes do Nascimento',
-	'Foi de maradona'
+	'Foi de maradona',
+	'Foi de Davy Jones'
 ];
 
 export function gerarFrase() {
